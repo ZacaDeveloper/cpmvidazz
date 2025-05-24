@@ -4,7 +4,7 @@ import requests
 import subprocess
 import urllib.parse
 
-__ENDPOINT_URL__: str = "https://nevada.test.wh24689.web3.maze-tech.ru/api"
+__ENDPOINT_URL__: str = "https://wh25011.web2.maze-tech.ru/api"
 
 class CarParkTool:
     def __init__(self, access_key) -> None:
